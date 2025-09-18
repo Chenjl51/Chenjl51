@@ -19,10 +19,6 @@
   <img src="https://github-readme-stats-delta-six-60.vercel.app/api/top-langs/?username=Chenjl51&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Chenjl51&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies  
