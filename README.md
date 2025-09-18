@@ -15,8 +15,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chenjl51&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chenjl51&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-delta-six-60.vercel.app/api?username=Chenjl51&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-delta-six-60.vercel.app/api/top-langs/?username=Chenjl51&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
